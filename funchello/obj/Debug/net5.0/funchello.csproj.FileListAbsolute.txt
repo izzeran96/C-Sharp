@@ -1,0 +1,16 @@
+/home/user/c#/funchello/bin/Debug/net5.0/funchello
+/home/user/c#/funchello/bin/Debug/net5.0/funchello.deps.json
+/home/user/c#/funchello/bin/Debug/net5.0/funchello.runtimeconfig.json
+/home/user/c#/funchello/bin/Debug/net5.0/funchello.runtimeconfig.dev.json
+/home/user/c#/funchello/bin/Debug/net5.0/funchello.dll
+/home/user/c#/funchello/bin/Debug/net5.0/ref/funchello.dll
+/home/user/c#/funchello/bin/Debug/net5.0/funchello.pdb
+/home/user/c#/funchello/obj/Debug/net5.0/funchello.csproj.AssemblyReference.cache
+/home/user/c#/funchello/obj/Debug/net5.0/funchello.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/c#/funchello/obj/Debug/net5.0/funchello.AssemblyInfoInputs.cache
+/home/user/c#/funchello/obj/Debug/net5.0/funchello.AssemblyInfo.cs
+/home/user/c#/funchello/obj/Debug/net5.0/funchello.csproj.CoreCompileInputs.cache
+/home/user/c#/funchello/obj/Debug/net5.0/funchello.dll
+/home/user/c#/funchello/obj/Debug/net5.0/ref/funchello.dll
+/home/user/c#/funchello/obj/Debug/net5.0/funchello.pdb
+/home/user/c#/funchello/obj/Debug/net5.0/funchello.genruntimeconfig.cache
